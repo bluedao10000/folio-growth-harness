@@ -1,5 +1,7 @@
 # 报告与持久任务入口
 
+- [零用户到首批用户：14 天获客 + 30 天 SEO/GEO](first-users-14d-seo-30d.md)：已归档的待审批提案，未启动，不改变既有实验阈值。
+
 - [产品知识研究](../knowledge/folio-product-knowledge.md)：固定源码与有限公开观察，已完成。
 - [产品基线复核](../knowledge/product-baseline.md)：双域名公开面对照；国内目标已确认 codeiy.com。
 - [市场审计](folio-growth-audit.md)：公开来源与假设，已完成；增长结果未验证。
